@@ -1,4 +1,4 @@
-View the app Live here: https://godswillumukoro.github.io/Image-Gallery/
+View the Live App here: https://godswillumukoro.github.io/Image-Gallery/
 
 This gallery displays all images in a modal
 
